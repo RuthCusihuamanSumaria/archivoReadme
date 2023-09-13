@@ -11,3 +11,7 @@ Son los primeros pasos
 ## ejemplos
 
 podemos ingresar para ver lo que tenemos a [gitHub](https://github.com/RuthCusihuamanSumaria/archivoReadme)
+
+[ emoji](https://github.com/markdown-templates/markdown-emojis)
+
+[]
